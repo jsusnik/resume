@@ -32,13 +32,11 @@ Results-driven data professional with expertise in transforming complex business
 - Collaborated with cross-functional departments to identify key performance indicators and translate business requirements into actionable reports and interactive visualizations.
 - Implemented data validation methods to ensure data integrity, successfully identifying and resolving BOM (Bill of Materials) errors through analytical reporting.
 - Leveraged Power Automate to create webhook-based automation workflows, enabling automated email notifications and Microsoft Teams integrations for real-time business alerts.
-- Streamlined communication processes by integrating data systems with Teams channels, improving cross-departmental collaboration and response times.
-- Deployed a Django-based web application on Microsoft Azure, leveraging Python, pandas, HTML, CSS, and JavaScript to deliver a responsive user experience.
-- Actively developing an executive dashboard for internal deployment on secure networks with Azure Active Directory authentication integration.
-- Gained hands-on experience with Microsoft Fabric for advanced analytics and data integration scenarios.
-- Designed, tested, and implemented electronic data interchange (EDI) integrations for multiple vendors, streamlining B2B data exchange processes.
 - Built automated data pipelines using Python and pandas to extract data via T-SQL queries, transform and cleanse records, and output standardized CSV files for vendor consumption.
 - Developed XML parsing solutions using Python to handle complex data structures and integrate diverse data sources into unified workflows.
+- Deployed a Django-based web application on Microsoft Azure, leveraging Python, pandas, HTML, CSS, and JavaScript to deliver a responsive user experience.
+- Gained hands-on experience with Microsoft Fabric for advanced analytics and data integration scenarios.
+- Designed, tested, and implemented electronic data interchange (EDI) integrations for multiple vendors, streamlining B2B data exchange processes.
 
 ### IRIS POWER
 
