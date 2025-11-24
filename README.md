@@ -27,7 +27,7 @@ Results-driven data professional with expertise in transforming complex business
 - Championed the deployment of Apache Airflow in Docker containers on local servers, establishing a robust orchestration platform for automated data pipelines and workflow management.
 - Led the implementation of PostgreSQL as an enterprise data warehouse on local servers, including comprehensive database administration, backup/restore processes, and performance optimization.
 - Designed and implemented data models using dbt (data build tool) to transform raw data into analytics-ready datasets, ensuring data consistency and maintainability.
-- Spearheaded the deployment of Power BI across the organization, replacing legacy SSRS reports with interactive Power BI dashboards that improved data accessibility and user engagement.
+- Assisted with the deployment of Power BI across the organization, replacing legacy SSRS reports with interactive Power BI dashboards that improved data accessibility and user engagement.
 - Built accurate and efficient queries using MSSQL and T-SQL, developing visually-appealing reports with conditional formatting to highlight critical business metrics.
 - Collaborated with cross-functional departments to identify key performance indicators and translate business requirements into actionable reports and interactive visualizations.
 - Implemented data validation methods to ensure data integrity, successfully identifying and resolving BOM (Bill of Materials) errors through analytical reporting.
