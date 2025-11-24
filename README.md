@@ -49,10 +49,10 @@ Results-driven data professional with expertise in transforming complex business
 
 ### EDUCATION
 
-#### MCMASTER UNIVERSITY · Sept. 2014  to Dec. 2018
+#### MCMASTER UNIVERSITY · 2014 to 2018
 
 Bachelor of Science in Mathematics and Statistics
 
-#### LIGHTHOUSE LABS · Aug. 2021  to Nov. 2021
+#### LIGHTHOUSE LABS · 2021 to 2021
 
 Data Science Diploma
