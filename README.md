@@ -22,7 +22,7 @@ Results-driven data professional with expertise in transforming complex business
 
 ### POLLARD WINDOWS
 
-#### Application Support Developer · 2021 to Current · Burlington, ON
+#### Application Support Developer · 2018 to Current · Burlington, ON
 
 - Championed the deployment of Apache Airflow in Docker containers on local servers, establishing a robust orchestration platform for automated data pipelines and workflow management.
 - Led the implementation of PostgreSQL as an enterprise data warehouse on local servers, including comprehensive database administration, backup/restore processes, and performance optimization.
