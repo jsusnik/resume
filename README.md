@@ -40,12 +40,12 @@ Results-driven data professional with expertise in transforming complex business
 
 ### IRIS POWER
 
-Junior Engineer · 2012 to 2018 · Mississauga, Ontario
-Automated the calibration process of instruments using Python, Oscilloscopes, and Excel. I was the principal developer of an IoT
-application for a single board computer, which also worked on a RaspberryPi device. I designed an Android phone application
-(Xamarin, Microsoft Visual Studio) which communicated with an Azure Cloud repository (Blob) while accessing secure customer
-data. I developed complex algorithms to simulate instrument diagnostics as a prototype, which was then used as a production
-model.
+#### Junior Engineer · 2012 to 2018 · Mississauga, Ontario
+
+- Developed Python-based automation solutions for instrument calibration workflows, integrating with oscilloscopes and Excel to improve efficiency and accuracy.
+- Served as principal developer for an IoT application deployed on single-board computers and Raspberry Pi devices, enabling remote instrument monitoring and control.
+- Designed and implemented an Android mobile application using Xamarin and Microsoft Visual Studio, featuring secure authentication and Azure Blob Storage integration for customer data access.
+- Engineered complex diagnostic simulation algorithms that successfully transitioned from prototype to production, enhancing instrument testing capabilities.
 
 ### EDUCATION
 
